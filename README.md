@@ -1,7 +1,5 @@
 # Email Campaign Clustering Tool
 
-!(https://www.google.com/search?q=https://placehold.co/600x300/F0F8FF/4682B4%3Ftext%3DEmail%2BClustering%2BTool)
-
 This Python tool analyzes a directory of email samples (.eml and .msg formats), converts .msg files to .eml, extracts key features, clusters emails into potential phishing/spam campaigns based on shared characteristics, and organizes the clustered emails into separate folders.
 
 It's designed to help email security researchers and analysts quickly process large volumes of email samples to identify related threats.
