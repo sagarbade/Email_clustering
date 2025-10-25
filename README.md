@@ -1,4 +1,4 @@
-###Email Campaign Clustering Tool
+# Email Campaign Clustering Tool
 
 !(https://www.google.com/search?q=https://placehold.co/600x300/F0F8FF/4682B4%3Ftext%3DEmail%2BClustering%2BTool)
 
@@ -65,7 +65,7 @@ Locate the TARGET_DIRECTORY variable near the end of the script.
 
 Change the path /path/to/your/email/samples to the actual path of the directory containing your .eml and .msg files.
 
-# --- Set the directory containing your email samples ---
+#--- Set the directory containing your email samples ---
 TARGET_DIRECTORY = '/path/to/your/email/samples' # <--- !!! CHANGE THIS PATH !!!
 
 
